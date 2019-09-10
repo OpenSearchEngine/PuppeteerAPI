@@ -1,4 +1,4 @@
-#Puppeteer API
+# Puppeteer API
 ![build status](https://api.travis-ci.org/OpenSearchEngine/PuppeteerAPI.svg?branch=master "Build Status")
 
 This is a simple project that runs within Docker to provide a simple API that can be called by other applications. The
